@@ -1,0 +1,9 @@
+body {
+  background: var(--color-faintGrey);
+  margin: 0;
+  font-family: Roboto, Helvetica, Arial, sans-serif, 'Apple Color Emoji',
+    'Segoe UI Emoji', 'Segoe UI Symbol';
+  line-height: 1.5;
+  min-height: 100vh;
+  -webkit-font-smoothing: antialiased;
+}

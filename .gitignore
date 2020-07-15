@@ -1,0 +1,40 @@
+# Created by https://www.gitignore.io/api/polymer
+# Edit at https://www.gitignore.io/?templates=polymer
+
+### Polymer ###
+#Installed components via bower
+bower_components/
+
+#Installed modules via npm
+node_modules/
+
+#Polymer-cli builds
+build/
+dist/
+
+# IDEs
+.idea
+.vscode
+
+# misc
+.DS_Store
+
+# Analyzer output used in the docs
+analysis.json
+
+# NPM artifact
+polymer-polymer-*.tgz
+src/__tests__/integration/screenshots-current/
+_site/
+
+# config
+config.js
+
+### Node ###
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+lerna-debug.log*
