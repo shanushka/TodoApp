@@ -1,6 +1,7 @@
 import { LitElement, html, css } from 'lit-element';
 
 import './components/dragAndDrop';
+import './components/card-component/card-component';
 
 const TODO_LIST = ['Queued', 'In-Progress', 'QA', 'UAT', 'Done'];
 
@@ -37,7 +38,9 @@ class MyApp extends LitElement {
   render() {
     return html`
       <div>Todo app</div>
-      <drag-drop .lists=${TODO_LIST}></drag-drop>
+      <div>
+      <card-component></card-component>
+      </div>
     `;
   }
 }
