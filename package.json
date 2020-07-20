@@ -11,6 +11,14 @@
     "test": "polymer test"
   },
   "dependencies": {
+    "@google-web-components/google-chart": "^4.0.0",
+    "@material/mwc-icon-button": "^0.17.2",
+    "@polymer/iron-icons": "^3.0.1",
+    "@polymer/paper-card": "^3.0.1",
+    "@polymer/paper-icon-button": "^3.0.2",
+    "@polymer/paper-progress": "^3.0.1",
+    "@polymer/paper-ripple": "^3.0.2",
+    "@polymer/paper-tooltip": "^3.0.1",
     "@webcomponents/shadycss": "^1.9.6",
     "http-status": "^1.4.2",
     "lit-element": "^2.3.1",
