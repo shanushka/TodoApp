@@ -1159,10 +1159,10 @@
     "@webassemblyjs/wast-parser" "1.9.0"
     "@xtuc/long" "4.2.2"
 
-"@webcomponents/shadycss@^1.9.6":
-  version "1.10.0"
-  resolved "https://registry.yarnpkg.com/@webcomponents/shadycss/-/shadycss-1.10.0.tgz#7a80ec1e8b271fb3f0cc02cd4358b877a303545d"
-  integrity sha512-UMS+dF4DXDrcUmQqK6aLd/3mFyfGktKG/hZR6FtrsQK/INO07G0H8FxElLkuvHj0iePeZGpR7R4lWFTvX7rc9g==
+"@webcomponents/shadycss@^1.11.0":
+  version "1.11.1"
+  resolved "https://registry.yarnpkg.com/@webcomponents/shadycss/-/shadycss-1.11.1.tgz#add19d5e0db4a014e143d2278921347dcd8f0a55"
+  integrity sha512-qSok/oMynEgS99wFY5fKT6cR1y64i01RkHGYOspkh2JQsLSM8pjciER+gu3fqTx589y/7LoSuyB5G9Rh7dyXaQ==
 
 "@xtuc/ieee754@^1.2.0":
   version "1.2.0"
