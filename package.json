@@ -14,7 +14,7 @@
     "@webcomponents/shadycss": "^1.9.6",
     "http-status": "^1.4.2",
     "lit-element": "^2.3.1",
-    "lit-html": "^1.2.1"
+    "lit-html": "^1.4.1"
   },
   "devDependencies": {
     "@babel/core": "^7.10.5",
