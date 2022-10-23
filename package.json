@@ -12,7 +12,7 @@
   },
   "dependencies": {
     "@webcomponents/shadycss": "^1.9.6",
-    "http-status": "^1.4.2",
+    "http-status": "^1.5.3",
     "lit-element": "^2.3.1",
     "lit-html": "^1.2.1"
   },
