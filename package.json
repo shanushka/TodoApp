@@ -11,7 +11,7 @@
     "test": "polymer test"
   },
   "dependencies": {
-    "@webcomponents/shadycss": "^1.9.6",
+    "@webcomponents/shadycss": "^1.11.0",
     "http-status": "^1.4.2",
     "lit-element": "^2.3.1",
     "lit-html": "^1.2.1"
